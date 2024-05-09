@@ -9,7 +9,7 @@ npx replayio update
 
 2. Record a replay that uses the extension
 ```sh
-RECORD_ALL_CONTENT=1 ~/.replay/runtimes/Replay-Chromium.app/Contents/MacOS/Chromium --load-extension=./extension
+RECORD_ALL_CONTENT=1 ~/.replay/runtimes/Replay-Chromium.app/Contents/MacOS/Chromium --load-extension=./reading-time
 ```
 
 3. Upload the replay
@@ -17,3 +17,8 @@ RECORD_ALL_CONTENT=1 ~/.replay/runtimes/Replay-Chromium.app/Contents/MacOS/Chrom
 ```sh
 npx replayio upload
 ```
+
+
+### Example replays
+
+1. [reading time](https://replay.run/reading-time)
