@@ -22,3 +22,7 @@ npx replayio upload
 ### Example replays
 
 1. [reading time](https://replay.run/reading-time)
+
+### Examples repo
+The examples come from this repo
+https://github.com/GoogleChrome/chrome-extensions-samples
